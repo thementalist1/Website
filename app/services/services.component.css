@@ -1,0 +1,36 @@
+@charset "utf-8";
+.hi{
+        
+        padding: 10px;
+        
+    }
+.h1 h3{
+         
+    background-color: #0098da;
+    padding: 200px;
+
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}  
+.container, .container-fluid {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin:20px;
+}
+.container, .container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+}
+/* @media (min-width: 768px)
+.container {
+    width: 750px;
+} */
+.text-small {
+    font-size: 14px;
+    line-height:22px;
+}
+.big-icon, .big-services-box, .service .icon, .social-feed .preview {
+    text-align: center;
+}
